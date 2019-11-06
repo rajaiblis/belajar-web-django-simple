@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=g_aiDWDddDQ&list=PLrzNWwVounu0insK8dVoAzDW48r3_B
 saya biasa nya mengganti datagrip dengan phppgadmin lalu add blog.post dan blog.comment
 extends juga berguna lalu jangan lupa perhatikan identation nya yah
 
+JANGAN LUPA INSTAL VIRTUAL ENV NYA yah
+
 database postgresql saya memakai ubuntu 14.04
 
 lalu disini blog nya sangat sederhana dan anda akan diajarkan mudahnya membuat user di django-admin
