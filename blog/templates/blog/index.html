@@ -1,0 +1,8 @@
+{% extends 'site/index.html' %}
+
+{% block content %}
+    {% for post in content %}
+        <h2> <a href="{{post.id}}">{{post.title}}</a></h2>
+        <p> {{post.short_content}} </p>
+    {% endfor %}
+{% endblock content %}
