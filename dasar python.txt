@@ -1,0 +1,1 @@
+echo,for,if,syntax jingga2,else
